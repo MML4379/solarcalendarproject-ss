@@ -1,0 +1,22 @@
+The solar calendar is a calendar in which the dates represent the season or the position of the sun relative to the stars. Most solar calendars have 365 days, which gets extended to 366 every four years, called a leap year. As solar calendars got more accurate, they evolved into two types.
+
+Tropical Solar Calendar
+A tropical solar calendar is where the position of Earth is in orbit around the Sun with respect to the Equinox, where the orbit crosses the celestial equator, and its dates accurately indicate the seasons, they are synchronized with the declination of the sun.
+
+Sidereal Solar Calendar
+A sidereal solar calendar is where the position of the Earth is reckoned with respect to the fixed stars, and the dates indicate the zodiacal constellation near which the Sun can be found.
+
+Lunisolar Solar Calendar
+A lunisolar calendar is a lunar calendar that has additional rules to roughly syncronize the solar year and seasons. A typical lunisolar calendar have years marked with a whole number of lunar months, so they can not indicate the position of Earth relative to the Sun with the same accuracy as a purely solar calendar.
+
+Examples of Solar Calendars
+Byzantine calendar
+Ethiopian calendar
+Gregorian calendar
+Indian national calendar
+International fixed calendar
+Julian calendar
+Roman calendar
+Swedish calendar
+Thai solar calendar
+World calendar
